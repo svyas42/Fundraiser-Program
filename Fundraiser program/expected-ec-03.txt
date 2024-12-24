@@ -1,0 +1,8 @@
+cmd> search ignorecase member SA
+ID       Name                             Sold  Total
+sp       Sarah Patel                         0      0
+sp1      Sam Parker                          0      0
+ss3      Susan Ann Shaw                      0      0
+TOTAL                                        0      0
+
+cmd> quit

@@ -1,0 +1,39 @@
+cmd> sale dk 435 2
+
+cmd> sale ap 919 3
+
+cmd> sale tb 435 4
+
+cmd> sale mz14 398 5
+
+cmd> sale mjb 187 2
+
+cmd> sale jc3 119 2
+
+cmd> sale zz3 299 3
+
+cmd> sale lg4 155 4
+
+cmd> sale ss3 581 3
+
+cmd> sale zz3 365 1
+
+cmd> sale zz3 187 2
+
+cmd> sale wl 657 4
+
+cmd> sale zz3 299 4
+
+cmd> sale zz3 919 3
+
+cmd> sale zz3 187 1
+
+cmd> list member zz3
+ID  Name                             Cost   Sold  Total
+187 Witch hat                           6      3     18
+299 Thanksgiving centerpiece           22      7    154
+365 All occasion cards                  9      1      9
+919 Skeleton mask                      10      3     30
+TOTAL                                         14    211
+
+cmd> quit

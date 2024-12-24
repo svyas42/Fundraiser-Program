@@ -1,0 +1,15 @@
+sale dk 435 2
+list members
+search item can
+sale ap 919 3
+list item names
+search member in
+sale tb 435 4
+sale mz14 398 5
+list topsellers
+list member names
+sale md2 119 3
+list items
+list member jc
+list member jl
+quit

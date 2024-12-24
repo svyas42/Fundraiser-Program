@@ -1,0 +1,5 @@
+search item Thanksgiving
+search item an
+search member Mary
+search member ar
+quit

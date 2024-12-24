@@ -1,0 +1,70 @@
+cmd> sale dk1 435 2
+Invalid command
+
+cmd> list members
+ID       Name                             Sold  Total
+jc       Jose Chavez                         0      0
+mjb      Mary Jane Bradley                   0      0
+sp       Sarah Patel                         0      0
+sp1      Sam Parker                          0      0
+wl       Wei Liu                             0      0
+TOTAL                                        0      0
+
+cmd> search item can
+ID  Name                             Cost   Sold  Total
+TOTAL                                          0      0
+
+cmd> sale ap 919 3
+Invalid command
+
+cmd> list item name
+Invalid command
+
+cmd> search member in
+ID       Name                             Sold  Total
+TOTAL                                        0      0
+
+cmd> sale tb 435 4
+Invalid command
+
+cmd> sale mz14 398 5
+Invalid command
+
+cmd> list topsellers
+ID       Name                             Sold  Total
+jc       Jose Chavez                         0      0
+mjb      Mary Jane Bradley                   0      0
+sp       Sarah Patel                         0      0
+sp1      Sam Parker                          0      0
+wl       Wei Liu                             0      0
+TOTAL                                        0      0
+
+cmd> list member names
+ID       Name                             Sold  Total
+jc       Jose Chavez                         0      0
+mjb      Mary Jane Bradley                   0      0
+sp1      Sam Parker                          0      0
+sp       Sarah Patel                         0      0
+wl       Wei Liu                             0      0
+TOTAL                                        0      0
+
+cmd> sale md2 999 3
+Invalid command
+
+cmd> list items
+ID  Name                             Cost   Sold  Total
+367 Gummy bears                         3      0      0
+455 Truffle assortment                  6      0      0
+592 Gourmet chocolates                 12      0      0
+678 Chocolate almond bar                5      0      0
+792 Gummy bears                         5      0      0
+TOTAL                                          0      0
+
+cmd> list member jc
+ID  Name                             Cost   Sold  Total
+TOTAL                                          0      0
+
+cmd> list member jl
+Invalid command
+
+cmd> quit

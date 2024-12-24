@@ -1,0 +1,11 @@
+cmd> search ignorecase item ca
+ID  Name                             Cost   Sold  Total
+119 2025 Calendar                      12      0      0
+278 Birthday cards                      7      0      0
+365 All occasion cards                  9      0      0
+435 Red 4-candle set                   13      0      0
+477 Thanksgiving candles               11      0      0
+581 Assorted candy                     10      0      0
+TOTAL                                          0      0
+
+cmd> quit

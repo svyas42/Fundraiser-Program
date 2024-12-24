@@ -1,0 +1,12 @@
+list item names
+list members
+sale mjb 792 4
+sale jc 455 2
+sale sp 455 3
+sale mjb 792 2
+sale mjb 678 4
+list items
+list member mjb
+list topsellers
+search item ar
+quit

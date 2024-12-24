@@ -1,0 +1,41 @@
+cmd> list item names
+ID  Name                             Cost   Sold  Total
+119 2025 Calendar                      12      0      0
+365 All occasion cards                  9      0      0
+581 Assorted candy                     10      0      0
+278 Birthday cards                      7      0      0
+398 Birthday gift bags                  9      0      0
+890 Birthday wrapping paper             9      0      0
+657 Coupon book                        20      0      0
+792 Halloween pumpkin                  15      0      0
+592 Holiday gift bags                   8      0      0
+725 Holiday wrapping paper              9      0      0
+155 Pen and pencil set                 10      0      0
+435 Red 4-candle set                   13      0      0
+919 Skeleton mask                      10      0      0
+477 Thanksgiving candles               11      0      0
+299 Thanksgiving centerpiece           22      0      0
+187 Witch hat                           6      0      0
+TOTAL                                          0      0
+
+cmd> list member names
+ID       Name                             Sold  Total
+ap       Arjun Patel                         0      0
+dk       Divya Kumar                         0      0
+jl       Jennifer Leigh                      0      0
+jc3      Jerry Clark                         0      0
+jc       Jose Chavez                         0      0
+lg4      Lucia Gomez                         0      0
+md2      Manuel Dominguez                    0      0
+meb      Mary Ellen Brinkley                 0      0
+mjb      Mary Jane Bradley                   0      0
+mz14     Min Zhang                           0      0
+sp1      Sam Parker                          0      0
+sp       Sarah Patel                         0      0
+ss3      Susan Ann Shaw                      0      0
+tb       Thomas Brady                        0      0
+wl       Wei Liu                             0      0
+zz3      Zichen Zhao                         0      0
+TOTAL                                        0      0
+
+cmd> quit

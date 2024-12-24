@@ -1,0 +1,11 @@
+cmd> search item xy
+ID  Name                             Cost   Sold  Total
+385 jQwgBq ialdxyKnx                   93      0      0
+442 1JxyUjwNNC2pizt5                   82      0      0
+641 DeXpxb7DR3Drwsx cZxygU             48      0      0
+859 t1dadixy jOawUh4                   27      0      0
+883 SMoAyEqjdKixyCiA                    6      0      0
+895 FronIw5UsC IWGPHSq-n0xyI           57      0      0
+TOTAL                                          0      0
+
+cmd> quit

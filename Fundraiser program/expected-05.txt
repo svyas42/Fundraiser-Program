@@ -1,0 +1,32 @@
+cmd> search item Thanksgiving
+ID  Name                             Cost   Sold  Total
+299 Thanksgiving centerpiece           22      0      0
+477 Thanksgiving candles               11      0      0
+TOTAL                                          0      0
+
+cmd> search item an
+ID  Name                             Cost   Sold  Total
+155 Pen and pencil set                 10      0      0
+299 Thanksgiving centerpiece           22      0      0
+435 Red 4-candle set                   13      0      0
+477 Thanksgiving candles               11      0      0
+581 Assorted candy                     10      0      0
+TOTAL                                          0      0
+
+cmd> search member Mary
+ID       Name                             Sold  Total
+meb      Mary Ellen Brinkley                 0      0
+mjb      Mary Jane Bradley                   0      0
+TOTAL                                        0      0
+
+cmd> search member ar
+ID       Name                             Sold  Total
+dk       Divya Kumar                         0      0
+jc3      Jerry Clark                         0      0
+meb      Mary Ellen Brinkley                 0      0
+mjb      Mary Jane Bradley                   0      0
+sp       Sarah Patel                         0      0
+sp1      Sam Parker                          0      0
+TOTAL                                        0      0
+
+cmd> quit

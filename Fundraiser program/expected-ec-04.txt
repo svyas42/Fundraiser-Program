@@ -1,0 +1,9 @@
+cmd> search ignorecase member An
+ID       Name                             Sold  Total
+md2      Manuel Dominguez                    0      0
+mjb      Mary Jane Bradley                   0      0
+mz14     Min Zhang                           0      0
+ss3      Susan Ann Shaw                      0      0
+TOTAL                                        0      0
+
+cmd> quit

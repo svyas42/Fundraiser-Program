@@ -1,0 +1,43 @@
+cmd> sale dk 435 2
+
+cmd> sale ap 919 3
+
+cmd> sale tb 435 4
+
+cmd> sale mz14 398 5
+
+cmd> sale mjb 187 2
+
+cmd> sale jc3 119 2
+
+cmd> sale zz3 299 3
+
+cmd> sale lg4 155 4
+
+cmd> sale ss3 581 3
+
+cmd> sale zz3 365 2
+
+cmd> sale wl 657 4
+
+cmd> list topsellers
+ID       Name                             Sold  Total
+zz3      Zichen Zhao                         5     84
+wl       Wei Liu                             4     80
+tb       Thomas Brady                        4     52
+mz14     Min Zhang                           5     45
+lg4      Lucia Gomez                         4     40
+ap       Arjun Patel                         3     30
+ss3      Susan Ann Shaw                      3     30
+dk       Divya Kumar                         2     26
+jc3      Jerry Clark                         2     24
+mjb      Mary Jane Bradley                   2     12
+jc       Jose Chavez                         0      0
+jl       Jennifer Leigh                      0      0
+md2      Manuel Dominguez                    0      0
+meb      Mary Ellen Brinkley                 0      0
+sp       Sarah Patel                         0      0
+sp1      Sam Parker                          0      0
+TOTAL                                       34    423
+
+cmd> quit

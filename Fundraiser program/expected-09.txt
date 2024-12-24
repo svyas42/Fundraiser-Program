@@ -1,0 +1,60 @@
+cmd> list item names
+ID  Name                             Cost   Sold  Total
+678 Chocolate almond bar                5      0      0
+592 Gourmet chocolates                 12      0      0
+367 Gummy bears                         3      0      0
+792 Gummy bears                         5      0      0
+455 Truffle assortment                  6      0      0
+TOTAL                                          0      0
+
+cmd> list members
+ID       Name                             Sold  Total
+jc       Jose Chavez                         0      0
+mjb      Mary Jane Bradley                   0      0
+sp       Sarah Patel                         0      0
+sp1      Sam Parker                          0      0
+wl       Wei Liu                             0      0
+TOTAL                                        0      0
+
+cmd> sale mjb 792 4
+
+cmd> sale jc 455 2
+
+cmd> sale sp 455 3
+
+cmd> sale mjb 792 2
+
+cmd> sale mjb 678 4
+
+cmd> list items
+ID  Name                             Cost   Sold  Total
+367 Gummy bears                         3      0      0
+455 Truffle assortment                  6      5     30
+592 Gourmet chocolates                 12      0      0
+678 Chocolate almond bar                5      4     20
+792 Gummy bears                         5      6     30
+TOTAL                                         15     80
+
+cmd> list member mjb
+ID  Name                             Cost   Sold  Total
+678 Chocolate almond bar                5      4     20
+792 Gummy bears                         5      6     30
+TOTAL                                         10     50
+
+cmd> list topsellers
+ID       Name                             Sold  Total
+mjb      Mary Jane Bradley                  10     50
+sp       Sarah Patel                         3     18
+jc       Jose Chavez                         2     12
+sp1      Sam Parker                          0      0
+wl       Wei Liu                             0      0
+TOTAL                                       15     80
+
+cmd> search item ar
+ID  Name                             Cost   Sold  Total
+367 Gummy bears                         3      0      0
+678 Chocolate almond bar                5      4     20
+792 Gummy bears                         5      6     30
+TOTAL                                         10     50
+
+cmd> quit

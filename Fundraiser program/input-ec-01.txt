@@ -1,0 +1,2 @@
+search ignorecase item PEN
+quit

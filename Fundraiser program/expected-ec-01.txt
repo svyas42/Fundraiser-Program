@@ -1,0 +1,6 @@
+cmd> search ignorecase item PEN
+ID  Name                             Cost   Sold  Total
+155 Pen and pencil set                 10      0      0
+TOTAL                                          0      0
+
+cmd> quit
